@@ -1,7 +1,8 @@
 # Rainbow2024
 Learn what a repository is all about
 This is a poem about Rainbows and Monkeys
-solar eclipse
+
+total solar eclipse in April of 2024
 
 Red
 Orange
